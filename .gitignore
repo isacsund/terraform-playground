@@ -2,3 +2,5 @@
 terraform.tfplan
 terraform.tfstate
 *.backup
+
+credentials.json
